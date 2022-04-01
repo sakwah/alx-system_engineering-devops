@@ -1,2 +1,2 @@
 #!/bin/bash
-mplayer https://www.starwars.com/video/star-wars-episode-iv-a-new-hope-opening-crawl
+telnet towel.blinkenlights.nl
